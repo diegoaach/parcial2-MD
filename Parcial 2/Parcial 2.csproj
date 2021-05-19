@@ -6,8 +6,4 @@
     <RootNamespace>Parcial_2</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="QuikGraph" Version="2.3.0" />
-  </ItemGroup>
-
 </Project>

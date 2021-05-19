@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "slnY5t+1pV2I0esUPR8Mo+sRCr7rxMco87DJEWY/rwYA0CRbOSJlhNquUjWiyBhpFFpd5O411TYx8BPZ91vJ8A==",
+  "dgSpecHash": "LEdmADiWx61AimnDCpEd/QftydA4VPhkExwutPDHB20vk1+cyiXc99gAhtCVJNQlZivDYFkD1hl4Q9xzDKijEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Documents\\UPB\\III Semestre\\Matematicas Discretas\\parcial pract 2\\Parcial 2\\Parcial 2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Diego\\.nuget\\packages\\quikgraph\\2.3.0\\quikgraph.2.3.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Diego\\Documents\\UPB\\III Semestre\\Matematicas Discretas\\parcial pract 2\\parcial2-MD\\Parcial 2\\Parcial 2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,3 +13,16 @@ C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\
 C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.dll
 C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.pdb
 C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.genruntimeconfig.cache
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\bin\Debug\netcoreapp3.1\Parcial 2.exe
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\bin\Debug\netcoreapp3.1\Parcial 2.deps.json
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\bin\Debug\netcoreapp3.1\Parcial 2.runtimeconfig.json
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\bin\Debug\netcoreapp3.1\Parcial 2.runtimeconfig.dev.json
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\bin\Debug\netcoreapp3.1\Parcial 2.dll
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\bin\Debug\netcoreapp3.1\Parcial 2.pdb
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.csprojAssemblyReference.cache
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.AssemblyInfo.cs
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.dll
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.pdb
+C:\Users\Diego\Documents\UPB\III Semestre\Matematicas Discretas\parcial pract 2\parcial2-MD\Parcial 2\obj\Debug\netcoreapp3.1\Parcial 2.genruntimeconfig.cache
